@@ -1,9 +1,6 @@
 # Netflix-Clone-Built-Using-React.JS.
 <h1 align="center">
-  <br>
-  Netflix Clone Built Using React.JS
-</h1>
-
+ 
 <p><font size="3">
  
   <br><br> 
