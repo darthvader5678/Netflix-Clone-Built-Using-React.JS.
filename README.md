@@ -15,7 +15,7 @@
 
 <div align="center"><a name="menu"></a>
 
-![ScreenShot](/public/images/readme/5.jpg)
+![https://github.com/AhmedTohamy01/React-Netflix-Clone/raw/master/public/images/readme/5.jpg)
 ![ScreenShot](/public/images/readme/6.jpg)
 ![ScreenShot](/public/images/readme/7.jpg)
 ![ScreenShot](/public/images/readme/8.jpg)
